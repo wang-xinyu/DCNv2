@@ -4,3 +4,4 @@
 *.o
 *pyc
 _ext
+*.wts
